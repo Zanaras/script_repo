@@ -1,4 +1,4 @@
-# proxmox_scripts
+# Andrew's Proxmox Scripts
 A selection of proxmox scripts I use for standardization purposes. 
 
 Most of the scripts are from https://github.com/tteck/Proxmox
