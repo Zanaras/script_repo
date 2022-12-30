@@ -1,4 +1,5 @@
 Just some useful links so I don't have to find them later:
 
 Microsoft Visual C++ Redistributables: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Space Engineers Mods Not Downloading Fix: https://support.keenswh.com/spaceengineers/pc/topic/24978-1-201-013-dedicated-server-unable-to-download-some-mods
 SteamCMD: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
