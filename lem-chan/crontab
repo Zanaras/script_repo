@@ -1,0 +1,2 @@
+# Crontab entry for starting lemuria on boot.
+@reboot screen -m -d -S lem-chan python3.8 /var/lem-chan/lemuria.py
