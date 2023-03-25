@@ -1,1 +1,1 @@
-screen -d -m -S minecraft java -Xmx15G -Xms1G -jar /opt/minecraft/server.jar nogui
+@reboot screen -d -m -S minecraft java -Xmx15G -Xms1G -jar /opt/minecraft/server.jar nogui
